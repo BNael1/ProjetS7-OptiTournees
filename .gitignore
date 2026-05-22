@@ -1,0 +1,48 @@
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+Partie_ACL/.vscode/
+Partie_Algo/.vscode/
+
+# Binaires
+Partie_ACL/bin/
+Partie_Algo/bin/
+Partie_ACL/cpp/bin/
+Partie_ACL/cpp/Graphes/bin/
+Partie_ACL/cpp/Modeles/bin/
+Partie_ACL/cpp/Outils/bin/
+Partie_ACL/cpp/lib/bin/
+Partie_Algo/cpp/bin/
+
+# .exe
+*.exe
+
+# .class
+*.class
+
+# CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Doxygen output
+html/
+latex/
+
+# Javadoc output
+docs/
+
+# Diagrammes (sources PlantUML et exports, non publiés dans la vitrine)
+diagrammes/
+
+# Java build
+out/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
